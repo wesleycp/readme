@@ -28,11 +28,11 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm student Postgraduate Degree's in Software Architecture 🎓 from Federal IGTI – Institute of Management and Information Technology 🏛.
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-I love to explore new technologies and leverage them to solve real-life problems ✨.
-Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm student Postgraduate Degree's in Software Architecture 🎓 from Federal IGTI – Institute of Management and Information Technology 🏛.<br/>
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.<br/>
+I love to explore new technologies and leverage them to solve real-life problems ✨.<br/>
+Apart from that I also love to guide and mentor newbies 👨🏻‍💻.<br/>
+I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.<br/>
 
 ##
 

@@ -56,33 +56,30 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 Talk to me about:
 - Mobile application development using **Flutter**
 - Web development - **HTML/CSS | Javascript (React)**
-- Backend development - **Python | PHP | Java | NodeJS**
+- Backend development - **Python | Java | PHP | NodeJS**
+- Database - **MySQL**
 
 #
 ### Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img align="left" alt="HTML5" height ="32px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    <img align="left" alt="html" height ="32px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img align="left" alt="CSS3" height ="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
+    <img align="left" alt="css" height ="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
 </a>
 
 <a href="https://www.javascript.com/" target="_blank"> 
-    <img align="left" alt="JavaScript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
+    <img align="left" alt="javascript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="left" alt="Typescirpt" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+    <img align="left" alt="Typescript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-    <img align="left" alt="React" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
-</a>
-
-<a href="https://jquery.com/" target="_blank">
-    <img align="left" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" height='32px'/>
+    <img align="left" alt="reactjs" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
 </a>
 
 <a href="https://www.python.org" target="_blank">
@@ -106,7 +103,7 @@ Talk to me about:
 </a>
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://drive.google.com/file/d/1qrY5NK7T-irnN1ZeiIANk9U58gvNZyzY/view" align="left" alt="flutter" height='32px'/> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" align="left" alt="flutter" height='32px'/> 
 </a>
 
 <a href="https://git-scm.com/" target="_blank">

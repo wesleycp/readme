@@ -106,7 +106,7 @@ Talk to me about:
 </a>
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://drive.google.com/drive/folders/1aeGJ3MmU5IDLobrqQqwYlIzil-pCF-1R" align="left" alt="flutter" height='32px'/> 
+    <img src="https://drive.google.com/file/d/1qrY5NK7T-irnN1ZeiIANk9U58gvNZyzY/view" align="left" alt="flutter" height='32px'/> 
 </a>
 
 <a href="https://git-scm.com/" target="_blank">

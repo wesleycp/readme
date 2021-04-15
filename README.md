@@ -62,6 +62,10 @@ Talk to me about:
 #
 ### Languages and Tools:
 
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" align="left" alt="flutter" height='32px'/> 
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img align="left" alt="html" height ="32px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 </a>
@@ -72,10 +76,6 @@ Talk to me about:
 
 <a href="https://www.javascript.com/" target="_blank"> 
     <img align="left" alt="javascript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="left" alt="Typescript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
@@ -100,14 +100,6 @@ Talk to me about:
 
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" align="left" alt="mysql" height='32px'/> 
-</a>
-
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" align="left" alt="flutter" height='32px'/> 
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> 
 </a>
 
 <br/>

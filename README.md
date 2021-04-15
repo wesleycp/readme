@@ -37,7 +37,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 ##
 
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with JavaScript, Angular, React, Python and Java.
+- 🛠 &nbsp; I’m currently working in Web Development with JavaScript and PHP.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wesleycpdev).
 - 📫 &nbsp; How to reach me: wesleycpdev@gmail.com.
@@ -49,14 +49,14 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Meetups & Tech events.
-- 👾 &nbsp; Play videogames & Crime TV Shows.
+- 👾 &nbsp; Reading books and play Counter Strike.
 
 ##
 ### ⚡ Technologies
 Talk to me about:
 - Mobile application development using **Flutter**
-- Web development - **HTML/CSS | Javascript (Angular/React)**
-- Backend development - **Python | PHP | Java**
+- Web development - **HTML/CSS | Javascript (React)**
+- Backend development - **Python | PHP | Java | NodeJS**
 
 #
 ### Languages and Tools:
@@ -103,6 +103,10 @@ Talk to me about:
 
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" align="left" alt="mysql" height='32px'/> 
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://drive.google.com/drive/folders/1aeGJ3MmU5IDLobrqQqwYlIzil-pCF-1R" align="left" alt="flutter" height='32px'/> 
 </a>
 
 <a href="https://git-scm.com/" target="_blank">

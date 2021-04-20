@@ -55,7 +55,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 ### ⚡ Technologies
 Talk to me about:
 - Mobile application development using **Flutter**
-- Web development - **HTML/CSS | Javascript (React)**
+- Web development - **HTML/CSS | Javascript**
 - Backend development - **Python | Java | PHP | NodeJS**
 - Database - **MySQL**
 
@@ -78,8 +78,12 @@ Talk to me about:
     <img align="left" alt="javascript" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
 </a>
 
-<a href="https://reactjs.org/" target="_blank">
-    <img align="left" alt="reactjs" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> 
+<a href="https://nodejs.org" target="_blank">
+    <img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+ <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" height='32px'/> 
 </a>
 
 <a href="https://www.python.org" target="_blank">
@@ -88,14 +92,6 @@ Talk to me about:
 
 <a href="https://www.java.com" target="_blank">
     <img align="left" alt="Java" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-</a>
-
-<a href="https://www.php.net/" target="_blank">
- <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" height='32px'/> 
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-    <img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">

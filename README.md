@@ -5,39 +5,37 @@
 </a>
 
 <a href="https://twitter.com/wesleycpdev">
-  <img align="left" alt="Warley Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Wesley Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/wesley-campelo/">
-  <img align="left" alt="Warley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Wesley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://www.twitch.tv/wesleycpdev/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Wesley Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
 
 <a href="https://www.reddit.com/user/jh00ny/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Wesley Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/jh00nyy/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
+  <img align="left" alt="Wesley Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
 
 <br/>
 
 ### Glad to see you here! &nbsp;
 
-I'm student Postgraduate Degree's in Software Architecture 🎓 from Federal IGTI – Institute of Management and Information Technology 🏛.<br/>
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.<br/>
 I love to explore new technologies and leverage them to solve real-life problems ✨.<br/>
-Apart from that I also love to guide and mentor newbies 👨🏻‍💻.<br/>
-I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.<br/>
+I'm currently into Web Development 🕸️.<br/>
 
 ##
 
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working in Web Development with JavaScript and PHP.
+- 🛠 &nbsp; I’m currently working in Web Development.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wesleycpdev).
 - 📫 &nbsp; How to reach me: wesleycpdev@gmail.com.
@@ -49,15 +47,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Meetups & Tech events.
-- 👾 &nbsp; Reading books and play Counter Strike.
-
-##
-### ⚡ Technologies
-Talk to me about:
-- Mobile application development using **Flutter**
-- Web development - **HTML/CSS | Javascript**
-- Backend development - **NodeJS | Python | Java | PHP**
-- Database - **MySQL**
+- 👾 &nbsp; I love playng Video Games.
 
 #
 ### Languages and Tools:

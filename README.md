@@ -4,57 +4,15 @@
   <img align="left" alt="Wesley Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://twitter.com/wesleycpdev">
-  <img align="left" alt="Wesley Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/wesley-campelo/">
   <img align="left" alt="Wesley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://www.twitch.tv/wesleycpdev/">
-  <img align="left" alt="Wesley Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
-</a>
-
-<a href="https://www.reddit.com/user/jh00ny/">
-  <img align="left" alt="Wesley Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
-
-<a href="https://steamcommunity.com/id/jh00nyy/">
-  <img align="left" alt="Wesley Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
 </a>
 
 <br/>
 
 ### Glad to see you here! &nbsp;
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.<br/>
-I love to explore new technologies and leverage them to solve real-life problems ✨.<br/>
-I'm currently into Web Development 🕸️.<br/>
-
-##
-
-### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working in Web Development.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wesleycpdev).
-- 📫 &nbsp; How to reach me: wesleycpdev@gmail.com.
-
-##
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Meetups & Tech events.
-- 👾 &nbsp; I love playng Video Games.
-
-#
 ### Languages and Tools:
-
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" align="left" alt="flutter" height='32px'/> 
-</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img align="left" alt="html" height ="32px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -72,6 +30,14 @@ I'm currently into Web Development 🕸️.<br/>
     <img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
 </a>
 
+<a href="https://www.php.net/" target="_blank">
+ <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" height='32px'/> 
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" align="left" alt="flutter" height='32px'/> 
+</a>
+
 <a href="https://www.python.org" target="_blank">
     <img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </a>
@@ -80,21 +46,6 @@ I'm currently into Web Development 🕸️.<br/>
     <img align="left" alt="Java" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </a>
 
-<a href="https://www.php.net/" target="_blank">
- <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" height='32px'/> 
-</a>
-
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" align="left" alt="mysql" height='32px'/> 
 </a>
-
-<br/>
-<br>
-<br>
-<br>
-
-<div align="center">
-
-   ### Show some ❤️ by starring some of the repositories!
-
-</div>

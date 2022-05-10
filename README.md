@@ -10,8 +10,6 @@
 
 <br/>
 
-### Glad to see you here! &nbsp;
-
 ### Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">

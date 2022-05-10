@@ -55,5 +55,5 @@
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mysql/prostgresql-icon.svg" align="left" alt="mysql" height='32px'/> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" align="left" alt="mysql" height='32px'/> 
 </a>

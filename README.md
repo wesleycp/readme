@@ -8,6 +8,10 @@
   <img align="left" alt="Wesley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.behance.net/wesleycampelo">
+  <img align="left" alt="Wesley Behance" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
+</a>
+
 <br/>
 
 ### Languages and Tools:

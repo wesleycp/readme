@@ -53,3 +53,7 @@
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" align="left" alt="mysql" height='32px'/> 
 </a>
+
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/prostgresql-icon.svg" align="left" alt="mysql" height='32px'/> 
+</a>

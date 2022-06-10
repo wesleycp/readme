@@ -8,7 +8,7 @@
 
 * HTML, CSS
 * JavaScript, TypeScript
-* Angular, React, React Nativ, Vue
+* Angular, React, React Native, Vue
 * Node, Express
 * Java, Python
 * Spring, FastAPI

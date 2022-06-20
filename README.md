@@ -12,10 +12,11 @@
 * Node, Express
 * Java, Python
 * Spring, FastAPI
-* PostgreSQL, MySQL, MongoDB
+* PostgreSQL, MySQL
+* 
 ## Projects
 
-* [EscolarHub](https://www.linkedin.com/in/wesley-campelo/)
+* [EscolarHub](https://escolarhub.com.br/)
 * [CS:GO Maps](https://github.com/wesleycpdev/csgo-maps)
 
 ## 🔗 Links

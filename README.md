@@ -18,7 +18,8 @@
 
 * [EscolarHub](https://escolarhub.com.br/)
 * [CS:GO Maps](https://github.com/wesleycpdev/csgo-maps)
-* [Step-By-Step](https://github.com/wesleycpdev/step-by-step)
+* [Step by Step](https://github.com/wesleycpdev/step-by-step)
+* [Event Platform](https://github.com/wesleycpdev/event-platform)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-campelo/)

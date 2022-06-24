@@ -13,7 +13,7 @@
 * Java, Python
 * Spring, FastAPI
 * PostgreSQL, MySQL
-* 
+
 ## Projects
 
 * [EscolarHub](https://escolarhub.com.br/)

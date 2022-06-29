@@ -9,10 +9,10 @@
 * HTML, CSS
 * JavaScript, TypeScript
 * Angular, React, React Native, Vue
-* Node, Express
+* Node, Express, Nest
 * Java, Python
 * Spring, FastAPI
-* PostgreSQL, MySQL
+* PostgreSQL, MySQL, GraphQL
 
 ## Projects
 

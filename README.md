@@ -16,7 +16,7 @@
 
 ## Projects
 
-* [EscolarHub](https://escolarhub.com.br/)
+* [EscolarHub](https://github.com/escolarhub)
 * [CS:GO Maps](https://github.com/wesleycpdev/csgo-maps)
 * [Step by Step](https://github.com/wesleycpdev/step-by-step)
 * [Event Platform](https://github.com/wesleycpdev/event-platform)

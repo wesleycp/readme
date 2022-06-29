@@ -1,8 +1,8 @@
 
 ## Hi! I'm Wesley 👋
 
-* 👩‍💻 Currently working with Web Development
-* 🧠 Currently learning  Software Architecture
+* 👩‍💻 Currently working with Full Stack Web and Mobile Development
+* 🧠 Currently learning Software Architecture
 
 ## 🛠 Skills
 

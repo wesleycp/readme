@@ -2,16 +2,15 @@
 ## Hi! I'm Wesley 👋
 
 * 👩‍💻 Currently working with Full Stack Web and Mobile Development
-* 🧠 Currently learning Software Architecture
 
 ## 🛠 Skills
 
-* HTML, CSS
+* HTML, CSS, SCSS
 * JavaScript, TypeScript
 * Angular, React, React Native, Vue
-* Node, Java, Python
-* Express, Spring, FastAPI
-* PostgreSQL, MySQL, GraphQL
+* Java, Python
+* Spring, FastAPI
+* PostgreSQL, MySQL
 
 ## Projects
 
@@ -22,4 +21,3 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-campelo/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wesleycpdev)

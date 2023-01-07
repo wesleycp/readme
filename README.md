@@ -5,12 +5,7 @@
 
 ## 🛠 Skills
 
-* HTML, CSS, SCSS
-* JavaScript, TypeScript
-* Angular, React, React Native, Vue
-* Java, Python
-* Spring, FastAPI
-* PostgreSQL, MySQL
+Java • Python • Angular • React • Typescript/JavaScript
 
 ## Projects
 

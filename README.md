@@ -2,7 +2,7 @@
 ## Hi! I'm Wesley 👋
 
 <div>
-  <a href="https://github.com/wallysoneves">
+  <a href="https://github.com/wesleycpdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleycpdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycpdev&layout=compact&langs_count=16&theme=dark"/>
 </div>

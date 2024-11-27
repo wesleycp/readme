@@ -1,4 +1,4 @@
-```
+```ts
 function welcome() {
   console.log('My name is Wesley')
   console.log('I'm from Brazil')

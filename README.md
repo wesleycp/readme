@@ -1,13 +1,13 @@
-```html
-<p>My name is Wesley</p>
-```
-
 ```ts
+const aboutMe = {
+  name: "Wesley",
+  country: "Brazil",
+  role: "Developer",
+  company: "CI&T",
+}
+
 function welcome() {
-  console.log("My name is Wesley")
-  console.log("I'm from Brazil")
-  console.log("I'm a developer at CI&T")
-  console.log("Welcome to my github profile")
+  console.log(aboutMe)
 }
 
 welcome()
